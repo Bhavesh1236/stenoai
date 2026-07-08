@@ -120,4 +120,4 @@ if (process.platform === 'darwin') {
   console.log(
     '[patch-electron-dev] If you ran the dev app before this rebrand, log out and back in to refresh the macOS Dock cache.',
   );
-}
+};
